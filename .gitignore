@@ -8,3 +8,4 @@ tls.crt
 *.pem
 *.key
 *.crt
+tls.key
