@@ -1,0 +1,10 @@
+# TLS private keys
+tls.key
+
+# Optional: ignore cert if you want
+tls.crt
+
+# Kubernetes secrets
+*.pem
+*.key
+*.crt
